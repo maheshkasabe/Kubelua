@@ -6,3 +6,12 @@ services:
     container_name: frontend
     network_mode: "host"
 
+
+#version: '3'
+#version: '3'
+#version: '3'
+#version: '3'
+#version: '3'
+#version: '3'
+#version: '3'
+
